@@ -145,3 +145,4 @@ If you want to translate Uptime Kuma into your language, please read: https://gi
 If you want to modify Uptime Kuma, this guideline may be useful for you: https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md
 
 English proofreading is needed too because my grammar is not that great, sadly. Feel free to correct my grammar in this README, source code, or wiki.
+1
